@@ -1,1 +1,1 @@
-# Exploratorydatascience
+# Exploratory Data Analysis
